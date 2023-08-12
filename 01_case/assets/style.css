@@ -54,5 +54,17 @@ section>.main>div>div{
     top: 0;
     margin: auto;
 }
+#middle{
+    width: 15vw;
+    height: 15vw;
+    position: absolute;
+    background-color: white;
+
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    margin: auto;
+}
 
 
