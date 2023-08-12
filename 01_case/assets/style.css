@@ -1,0 +1,31 @@
+section {
+    width: 100vw;
+    height: 100vh;
+    position: relative;
+}
+
+section>.main {
+    width: 50vw;
+    height: 50vh;
+    position: absolute;
+}
+
+section>.main:first-child {
+    background: red;
+}
+
+section>.main:nth-child(2) {
+    background: green;
+    right: 0;
+}
+
+section>.main:nth-child(3) {
+    background: orange;
+    bottom: 0;
+}
+
+section>.main:last-child {
+    background: pink;
+    right: 0;
+    bottom: 0;
+}
