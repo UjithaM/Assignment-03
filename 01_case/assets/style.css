@@ -42,5 +42,17 @@ section>.main>div {
     top: 0;
     margin: auto;
 }
+section>.main>div>div{
+    width: 7vw;
+    height: 7vw;
+    background: red;
+    position: absolute;
+
+    right: 0;
+    left: 0;
+    bottom: 0;
+    top: 0;
+    margin: auto;
+}
 
 
