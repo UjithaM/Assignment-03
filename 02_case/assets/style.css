@@ -39,3 +39,12 @@ section>nav>ol>.nav{
     bottom: 0;
     width: 100%;
 }
+#content{
+    position: absolute;
+    left: 10vw;
+    top: 70px;
+}
+.gif{
+    width: 29vw;
+    margin: 5px;
+}
