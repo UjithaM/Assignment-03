@@ -3,6 +3,9 @@ header{
     box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
     height: 50px;
 }
+main>aside>nav>ol{
+    list-style-type: none;
+}
 header>nav>ol{
     position: absolute;
     top: 20px;
